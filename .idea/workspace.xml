@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11527f44-6f38-4e9e-9a54-a483801d53b4" name="Changes" comment="JavaProject0">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="11527f44-6f38-4e9e-9a54-a483801d53b4" name="Changes" comment="JavaProject0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,8 +34,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/fcjava/FastCampus&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/fcjava/FastCampus&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -120,8 +114,7 @@
       <updated>1680607337055</updated>
       <workItem from="1680607338994" duration="8191000" />
       <workItem from="1680701328723" duration="2885000" />
-      <workItem from="1680870623812" duration="1953000" />
-      <workItem from="1680872592759" duration="850000" />
+      <workItem from="1680870623812" duration="1162000" />
     </task>
     <task id="LOCAL-00001" summary="JavaProject0">
       <created>1680871385888</created>
@@ -137,14 +130,7 @@
       <option name="project" value="LOCAL" />
       <updated>1680871680712</updated>
     </task>
-    <task id="LOCAL-00003" summary="JavaProject0">
-      <created>1680872009987</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1680872009987</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
